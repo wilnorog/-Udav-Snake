@@ -1,0 +1,6 @@
+C:\Users\rangd\Desktop\Snake\Udav\Udav\obj\Debug\Udav.csprojAssemblyReference.cache
+C:\Users\rangd\Desktop\Snake\Udav\Udav\bin\Debug\Udav.exe.config
+C:\Users\rangd\Desktop\Snake\Udav\Udav\bin\Debug\Udav.exe
+C:\Users\rangd\Desktop\Snake\Udav\Udav\bin\Debug\Udav.pdb
+C:\Users\rangd\Desktop\Snake\Udav\Udav\obj\Debug\Udav.exe
+C:\Users\rangd\Desktop\Snake\Udav\Udav\obj\Debug\Udav.pdb
